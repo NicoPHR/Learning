@@ -72,3 +72,5 @@ Example docker file
 ## General terminal commands
 - ls: List of directories and files
 - pwd: Outputs the present working dir
+
+other
